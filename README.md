@@ -18,6 +18,7 @@ A snapshot of the raw & processed data is archived on Zenodo and available here:
 The entire dataset contains more than 50 000 rows for the four countries. This is a summary for the data based on the latest snapshot (February 2023).
 
 | Country | time range | time resolution | number of variables (area) per country |
+| --- | --- | --- | --- |
 | ARG     | 2015 - 2022 | daily | 24 |
 | BOL     | 2010 - 2022 | daily | 10 |
 | BRA     | 2017 - 2023 | weekly  | 6 | 
