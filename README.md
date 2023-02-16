@@ -88,7 +88,7 @@ The script `BRA-download.R` download the files and the script `BRA-process.R` ex
 # … with 1,898 more rows
 ```
 
-### Uruguay (URY)
+### Uruguay (URU)
 Unfortunately, the raw data must be exported manually from [this webpage](https://portal.ute.com.uy/institucional/ute/utei/fuentes-de-generacion) selecting each time a different time range (max 1 year). The data table is the one under the tab "Energia"> "Histórico Composición Energética", you must select the time range, then click "Aplicar" on the right and "Exportar" on the bottom. The website is sometimes slow in providing the data. 
 
 The script `URU-process.R` extract the time-series from the raw data saving this table in RDS format:
